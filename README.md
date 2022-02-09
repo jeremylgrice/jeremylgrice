@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremy(@jeremylgrice)
-- 👀 I’m interested in all things Front-end development, with my focus being on consumer facing logic.
+- 👀 I’m interested in all things Front-end development.
 - 🌱 I’m currently working at Red Van Workshop, which is easily the greatest company ever.
 - 📫 You can reach me at Jeremylgrice@gmail.com, or on Twitter at <a href="https://twitter.com/veteranwhocodes">veteranwhocodes</a>
 
